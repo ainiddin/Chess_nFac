@@ -55,7 +55,7 @@ git push -u origin main
 
 ## 5. Получи Anthropic API ключ (3 мин) — для сэнсэя
 
-1. Зарегайся на https://console.anthropic.com
+1. Зарегайся на https://console.anthropic .com
 2. Положи $5 на счёт (этого хватит на ~3000 анализов партий)
 3. **API Keys → Create Key** → скопируй ключ (`sk-ant-...`)
 4. Это пойдёт в `ANTHROPIC_API_KEY`
